@@ -1,3 +1,3 @@
-# aoc-2017  
+# aoc-2018  
 
 advent of code solutions, in haskell
